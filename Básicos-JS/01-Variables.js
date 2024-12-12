@@ -1,6 +1,6 @@
 //====| Declaracion de varaibles en JS |====
 //inicialmente tenemos a var, la cual es para ambito global
-// A continuación var indica que desea declarar una variable y mensaje es el nombre de dicha variable.
+// A continuación var indica que se desea declarar una variable y mensaje es el nombre de dicha variable.
 var mensaje;
 
 //Ahora tenemos a let que es para un ambito de bloque
@@ -31,3 +31,34 @@ const MY_VARIABLE = 123;
 //Para mostrar datos por consola hacemos uso de console.log(Mensaje o variable a mostrar) 
 console.log("Mensaje:");
 console.log(saludo);
+
+//==================================================================================================================================
+//====| Tipos de variables en JS |====
+
+//number 
+let edad = 25;  // Número entero
+let precio = 19.99;  // Número decimal
+
+// string
+let nombre = "Juan";
+let saludo2 = 'Hola, ¿cómo estás?';
+
+//Boolean
+let esActivo = true;
+let esMayorDeEdad = false;
+
+//Undefined: Una variable que ha sido declarada pero no se le ha asignado valor
+let noDefinido;
+console.log(noDefinido);  // undefined
+
+// Null: Un valor que indica la ausencia intencionada de cualquier valor o objeto.
+let usuario = null;
+
+//No confundir a estas dos ya que no son lo mismo
+
+//===================================================================================================
+// 'typeof' nos permite determinar el tipo de dato de una variable o expresión
+console.log("\nDeterminando el tipo de dato de una variable con 'typeof' \n");
+console.log(typeof saludo + "\n");
+console.log(typeof myVariable + "\n");
+console.log(typeof usuario);
