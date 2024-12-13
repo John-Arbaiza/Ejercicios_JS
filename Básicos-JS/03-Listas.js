@@ -1,6 +1,6 @@
 //Listas
 
-//Forma 1 de definir una lidsta
+//Forma 1 de definir una lista
 const lista = ["hola", true,undefined, null ];
 console.log(lista);
 

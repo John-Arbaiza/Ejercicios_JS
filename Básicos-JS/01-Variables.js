@@ -56,6 +56,9 @@ let usuario = null;
 
 //No confundir a estas dos ya que no son lo mismo
 
+//symbol: son valores unicos que pueden ser usados como identificadores de propiedades
+let mySymbol = Symbol(":)")
+
 //===================================================================================================
 // 'typeof' nos permite determinar el tipo de dato de una variable o expresión
 console.log("\nDeterminando el tipo de dato de una variable con 'typeof' \n");
