@@ -15,7 +15,7 @@ console.log("-----------------------------------------");
 //Bucle do while
 
 /*El bloque de código dentro del do se ejecuta siempre al menos una vez,
- sin importar si la condición es verdadera o falsa en la primera evaluación.
+sin importar si la condición es verdadera o falsa en la primera evaluación.
 */
 let j = 0;
 let maxi = 5;
