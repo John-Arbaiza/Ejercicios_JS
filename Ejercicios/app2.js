@@ -8,8 +8,8 @@ console.log("=========================================");
 
 //Cuclo for para imrprmimir los numeros
 for (i = 10; i <= 55; i++){
-     // Verificamos si el número es par, no es 16 y no es múltiplo de 3
-     if (i % 2 === 0 && i != 16 && i % 3 !== 0){
-        console.log(i);
-     }
+   // Verificamos si el número es par, no es 16 y no es múltiplo de 3
+   if (i % 2 === 0 && i != 16 && i % 3 !== 0){
+      console.log(i);
+   }
 }
