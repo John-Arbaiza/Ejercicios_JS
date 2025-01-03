@@ -8,6 +8,10 @@ Es un lenguaje de programación ligero, interpretado, o compilado con funciones 
 ### Ejercicios para practicar JS <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" alt="Woman Technologist" width="25" height="25" />
 El siguiente repositorio tiene como objetivo servir de documentación y ejemplo para recordar el funcionamiento o sintaxis de ciertos elementos dentro del lenguaje
 
+## Contenido 
+1. [Fundamentos Básicos en JS](https://github.com/John-Arbaiza/Ejercicios_JS/tree/main/B%C3%A1sicos-JS)
+2. [Ejerciciós](https://github.com/John-Arbaiza/Ejercicios_JS/tree/main/Ejercicios)
+
 ## Links a otros repos con prácticas de temas relacionados <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Confounded%20Face.png" alt="Confounded Face" width="25" height="25" />
 
 ### Link del repositorio de la práctica de manejo del DOM
